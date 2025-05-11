@@ -1,0 +1,109 @@
+{
+	"entity.phantom.ambient": {
+		"subtitle": "Lawn Mower (Ambient)",
+		"replace": true,
+		"sounds": []
+	},
+	"entity.phantom.bite": {
+		"subtitle": "Lawn Mower (Bite)",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "entity/phantom/bite1",
+				"stream": false,
+				"volume": 0.35,
+				"pitch": 1
+			},
+
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			},
+			{
+				"name": "entity/phantom/bite2",
+				"volume": 1.25,
+				"stream": false
+			}
+		]
+	},
+	"entity.phantom.death": {
+		"subtitle": "Lawn Mower (Death)",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "entity/phantom/death",
+				"volume": 0.25,
+				"stream": false
+			}
+		]
+	},
+	"entity.phantom.flap": {
+		"subtitle": "Lawn Mower (Flap)",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "entity/phantom/flap",
+				"volume": 0.1,
+				"stream": false
+			}
+		]
+	},
+	"entity.phantom.hurt": {
+		"subtitle": "Lawn Mower (Hurt)",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "entity/phantom/hurt",
+				"volume": 1,
+				"stream": false
+			}
+		]
+	},
+	"entity.phantom.swoop": {
+		"subtitle": "Lawn Mower (Swoop)",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "entity/phantom/swoop",
+				"volume": 0.2,
+				"stream": false
+			}
+		]
+	}
+}
