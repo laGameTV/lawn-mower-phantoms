@@ -31,8 +31,7 @@
 							"invertAxis": "xy",
 							"translate": [0, 4, -2.5],
 							"boxes": [
-								{"coordinates": [-3, 0, -3.5, 6, 3, 8], "textureOffset": [0, 31]},
-								{"coordinates": [-1, -2, -1.5, 2, 1, 2], "textureOffset": [0, 25]}
+								{"coordinates": [-3, 0, -3.5, 6, 3, 8], "textureOffset": [0, 31]}
 							],
 							"submodels": [
 								{
@@ -40,6 +39,7 @@
 									"invertAxis": "xy",
 									"translate": [0, -1, -0.5],
 									"boxes": [
+										{"coordinates": [-1, -1, -1, 2, 1, 2], "textureOffset": [0, 25]},
 										{"coordinates": [-4, -0.5, -4, 8, 1, 8], "textureOffset": [4, 48]}
 									]
 								}
